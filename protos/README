@@ -1,0 +1,3 @@
+generate the .java file with protoc:
+
+protoc launcher_dump.proto --java_out=./
